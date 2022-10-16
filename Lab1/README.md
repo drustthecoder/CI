@@ -1,0 +1,2 @@
+# Set Covering
+The solution proposed in this code is based on some kind of "generate and test" algorithm. On each state the next node is selected randomly. The function receives two parameters. First one is an N which is the number related to the creation of the problem. The second number is a seed for the random generator.
