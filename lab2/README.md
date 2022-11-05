@@ -21,5 +21,9 @@ Population is created by selecting random genomes from all_lists, calculating th
 ## Summary
 This solution tries to solve the problem by using genetic algorithm. However it never checks for the final solution in the fitness calculation. Therefore, we might have a perfect list in the population and discarding it because of high number of repeated elements. A better solution can try to detect the goal state in fitness calculation.
 
+## Team
+300451, Zohreh Lahijaniamiri, https://github.com/Zohrelhj
+301425, Shayan Taghinezhad Roudbaraki, https://github.com/drustthecoder
+
 
 
