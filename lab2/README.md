@@ -23,6 +23,7 @@ This solution tries to solve the problem by using genetic algorithm. However it 
 
 ## Team
 300451, Zohreh Lahijaniamiri, https://github.com/Zohrelhj
+
 301425, Shayan Taghinezhad Roudbaraki, https://github.com/drustthecoder
 
 
